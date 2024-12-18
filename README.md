@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently interning as SDE at STMicroelectronics and pursing B Tech from Delhi Technological University<br>
+SDE Intern @STMicroelectronics and pursing B Tech in IT from Delhi Technological University<br>
 
 
 ## 🌐 Socials:
